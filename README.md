@@ -1,2 +1,0 @@
-# paropamiz
-Created with CodeSandbox
